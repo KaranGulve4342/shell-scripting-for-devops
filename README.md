@@ -227,9 +227,9 @@ By the end of this course, you will be able to:
 ## 📚 Additional Resources
 
 - [Bash Manual](https://www.gnu.org/software/bash/manual/)
-- [DevOps Tools Cheatsheet](./cheatsheets/devops-tools.md)
-- [Shell Scripting Best Practices](./resources/best-practices.md)
-- [Common Pitfalls and Solutions](./resources/troubleshooting.md)
+- [DevOps Tools Cheatsheet](./shell-scripting-for-devops/cheatsheets/devops-tools.md)
+- [Shell Scripting Best Practices](./shell-scripting-for-devops/resources/best-practices.md)
+- [Common Pitfalls and Solutions](./shell-scripting-for-devops/resources/troubleshooting.md)
 
 ## 🤝 Contributing
 
